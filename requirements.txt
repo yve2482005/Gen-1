@@ -1,0 +1,5 @@
+python-telegram-bot
+diffusers
+torch
+accelerate
+Pillow
